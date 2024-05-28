@@ -6,22 +6,22 @@ In the digital age, online reviews significantly influence consumer decisions. H
 Develop a machine learning model to identify fake reviews on e-commerce or review platforms. Using a labeled dataset, preprocess the text, extract features, and train a classifier to detect fraudulent reviews. This project demonstrates skills in NLP, data preprocessing, machine learning, and model evaluation.
 
 ## Python Libraries and Packages Used
-1.Numpy
-2.Pandas
-3.Matplotlib.pyplot
-4.Seaborn
-5.Warnings
-6.nltk
-7.nltk.corpus
-8.String
-9.sklearn.naive_bayes
-10.sklearn.feature_extraction
-11.sklearn.model_selection
-12.sklearn.ensemble
-13.sklearn.tree
-14.sklearn.linear_model
-15.sklearn.svc
-16.sklearn.neighbors
+- Numpy
+- Pandas
+- Matplotlib.pyplot
+- Seaborn
+- Warnings
+- nltk
+- nltk.corpus
+- String
+- sklearn.naive_bayes
+- sklearn.feature_extraction
+- sklearn.model_selection
+- sklearn.ensemble
+- sklearn.tree
+- sklearn.linear_model
+- sklearn.svc
+- sklearn.neighbors
 
 ## Techniques Used for Text Preprocessing
 - Removing punctuation character
